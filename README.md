@@ -16,3 +16,5 @@
 [Motor编辑器操作手册.pdf](./Motor编辑器操作手册.pdf) 
 
 [示例资源/场景工程基本制作流程.pdf](./示例资源/场景工程基本制作流程.pdf)
+
+[Motor Editor网盘链接](https://pan.baidu.com/s/1INoR87W04iAaYsE4dUGlWg) 提取码：oxqz 
