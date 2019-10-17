@@ -17,4 +17,4 @@
 
 [场景工程基本制作流程.pdf](./示例资源/场景工程基本制作流程.pdf)
 
-[Motor Editor网盘链接](https://pan.baidu.com/s/1Wi9X0RdNSpI67cBtfYccbA) 提取码：7hds
+[Motor Editor网盘链接](https://pan.baidu.com/s/1vN2Z69AdRdJlWKduh5BSJQ&shfl=sharepset) 提取码：tgc7
