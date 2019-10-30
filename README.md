@@ -9,16 +9,16 @@
 - 本操作手册中“鲁班Motor编辑器”简称为“编辑器”
 - 本手册中使用了一些特定的符号，如下所示：
 - 【】：表示界面引用。如功能模块名称、操作按钮名称等。
-
+## GeoServer 
+<iframe src="https://docs.geoserver.org/stable/en/user/installation/index.html#installation"  style="width:100%; height:100%;"/>
 
 详情参见 
-
 [Motor编辑器操作手册.pdf](./Motor编辑器操作手册.pdf) 
 
 [场景工程基本制作流程.pdf](./示例资源/场景工程基本制作流程.pdf)
 
 [Motor Editor网盘链接](https://pan.baidu.com/s/1138fgn-7cfJgoEhhUsp6tQ) 提取码：3wu6
 
-[GeoServer安装部署](https://docs.geoserver.org/stable/en/user/installation/index.html#installation)
-
 [GeoServer卫片发布教程](./卫片发布流程.pdf)
+
+
