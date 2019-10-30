@@ -10,7 +10,7 @@
 - 本手册中使用了一些特定的符号，如下所示：
 - 【】：表示界面引用。如功能模块名称、操作按钮名称等。
 ## GeoServer 
-<iframe src="https://docs.geoserver.org/stable/en/user/installation/index.html#installation"  style="width:100%; height:100%;"/>
+<iframe src="https://docs.geoserver.org/stable/en/user/installation/index.html#installation"  style="width:100%; height:100%;"></iframe>
 
 详情参见 
 [Motor编辑器操作手册.pdf](./Motor编辑器操作手册.pdf) 
