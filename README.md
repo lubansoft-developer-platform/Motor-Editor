@@ -16,7 +16,7 @@
 
 [场景工程基本制作流程.pdf](./示例资源/场景工程基本制作流程.pdf)
 
-[Motor Editor网盘链接](https://pan.baidu.com/s/1sLs0GeG1R5YctPngoTsZdA) 提取码：o8r3
+[Motor Editor网盘链接](https://pan.baidu.com/s/1FhqwZOdFo44iNhRg8paSKw) 提取码：q5a3
 
 [GeoServer安装教程](https://docs.geoserver.org/stable/en/user/installation/index.html#installation)
 
